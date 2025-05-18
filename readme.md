@@ -1,0 +1,6 @@
+- ```hugo new site <SITENAME>```
+- ```cd <SITENAME> && hugo new theme <THEMENAME>```
+- Or, install a theme from https://themes.gohugo.io/
+- Edit hugo.toml, setting the "theme" property to the theme name.
+- ```hugo new content <SECTIONNAME>/<FILENAME>.<FORMAT>```
+- ```hugo server --buildDrafts```
