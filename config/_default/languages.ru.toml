@@ -1,0 +1,29 @@
+disabled = false
+languageCode = "ru"
+languageName = "Русский"
+weight = 1
+title = "Nomi - Творческий уголок"
+
+[params]
+  displayName = "RU"
+  isoCode = "ru"
+  rtl = false
+  dateFormat = "2 January 2006"
+   logo = "img/logo_N.png"
+  # secondaryLogo = "img/secondary-logo.png"
+   description = "Творческий уголок"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+ name = "Номи"
+ email = "nomikztop@gmail.com"
+ image = "img/author_logo.jpg"
+ imageQuality = 96
+ headline = "Искренняя жизнь"
+ bio = "Хочу жить как монах но у меня много желаний"
+ links = [
+   { email = "mailto:nomikztop@gmail.com" },
+   { github = "https://github.com/nomikz" },
+   { spotify = "https://open.spotify.com/user/31ky7bxrlyfaaeokcswkm5ta7sgi" },
+   { telegram = "https://t.me/nomikz" },
+ ]
