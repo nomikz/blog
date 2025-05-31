@@ -2,7 +2,7 @@ disabled = false
 languageCode = "ru"
 languageName = "Русский"
 weight = 1
-title = "Nomi - Творческий уголок"
+title = "Nomi - Уголок кринжа"
 
 [params]
   displayName = "RU"
@@ -11,7 +11,7 @@ title = "Nomi - Творческий уголок"
   dateFormat = "2 January 2006"
    logo = "img/logo_N.png"
   # secondaryLogo = "img/secondary-logo.png"
-   description = "Творческий уголок"
+   description = "Уголок книжа"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
@@ -19,8 +19,8 @@ title = "Nomi - Творческий уголок"
  email = "nomikztop@gmail.com"
  image = "img/author_logo.jpg"
  imageQuality = 96
- headline = "Искренняя жизнь"
- bio = "Хочу жить как монах но у меня много желаний"
+ headline = "Нету инстаграма поэтому вынужден писать свои мысли в блоге nomi.kz"
+ bio = "Скучный человек"
  links = [
    { email = "mailto:nomikztop@gmail.com" },
    { github = "https://github.com/nomikz" },
