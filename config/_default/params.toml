@@ -9,6 +9,12 @@ colorScheme = "neon" # avocado, fire, ocean, forest, princess, neon, bloody, ter
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = true
 
+showComments = true
+
+[services]
+  [services.disqus]
+    shortname = 'nomi-kz'
+
 enableSearch = false
 enableCodeCopy = true
 
